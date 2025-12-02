@@ -8,8 +8,8 @@ This is my custom-built version of the gesture-controlled game, with improvement
 ---
 
 ## 🚀 Live Demo  
-👉 **Play the game here:**  
-https://chikle9090.github.io/webcam-hand-control/
+👉 **Play the game 
+https://chikle9090.github.io/webcam-control-game/
 
 ---
 
